@@ -1,4 +1,4 @@
-[![MasterHead](https://news.stanford.edu/wp-content/uploads/2018/05/SNAIL_banner-960x384.jpg)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+[![MasterHead](https://www.cognex.com/library/media/blogs/deep-learning-blogs/2021/what-is-deep-learning-large.jpg?sc_lang=en&h=300&w=945&la=en&hash=2E77DA2E7601CF8405B46430F9DDD00A)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
 <h3 align="center">A passionate CENG student who is interested in Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
