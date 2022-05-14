@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/halimocakli" target="blank"><img src="https://img.shields.io/twitter/follow/halimocakli?logo=twitter&style=for-the-badge" alt="halimocakli" /></a> </p>
 
-- 🔭 I’m currently working as an Embedded Software Engineering Intern at [Sixfab](https://sixfab.com/) and Software Team Member at [KGM Black Night Team](https://www.instagram.com/blacknight_tek/)
+- 🔭 I’m currently working as Software Team Member at [KGM Black Night Team](https://www.instagram.com/blacknight_tek/)
 
 - 🌱 I’m currently learning **Advanced Python** and **Raspberry Pi**
 
