@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
 <h3 align="center">A passionate CENG student who is interested in Machine Learning</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halimocakli&label=Profile%20views&color=0e75b6&style=flat" alt="halimocakli" /> </p>
-
-<p align="left"> <a href="https://twitter.com/halimocakli" target="blank"><img src="https://img.shields.io/twitter/follow/halimocakli?logo=twitter&style=for-the-badge" alt="halimocakli" /></a> </p>
-
 - 🔭 I’m currently working as Software Team Member at [KGM Black Night Team](https://www.instagram.com/blacknight_tek/)
 
 - 🌱 I’m currently learning **Advanced Python**
@@ -24,3 +19,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halimocakli&" alt="halimocakli" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halimocakli&show_icons=true&locale=en&layout=compact" alt="halimocakli" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=halimocakli&label=Profile%20views&color=0e75b6&style=flat" alt="halimocakli" /> </p>
+
+<p align="left"> <a href="https://twitter.com/halimocakli" target="blank"><img src="https://img.shields.io/twitter/follow/halimocakli?logo=twitter&style=for-the-badge" alt="halimocakli" /></a> </p>
