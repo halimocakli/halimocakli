@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
 <h3 align="center">A passionate CENG student who is interested in Machine Learning</h3>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
+  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 </p>
-
 
 - 🔭 I’m currently working as Software Team Member at [KGM Black Night Team](https://www.instagram.com/blacknight_tek/)
 
