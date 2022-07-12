@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as Software Team Member at [KGM Black Night Team](https://www.instagram.com/blacknight_tek/)
 
-- 🌱 I’m currently learning **Advanced Python** & **MySQL**
+- 🌱 I’m currently learning **Advanced C#** & **WPF** & **MySQL**
 
-- 💬 Ask me about **C, Data Structures, Algorithm Analysis**
+- 💬 Ask me about **C, Python, Data Structures, Algorithm Analysis**
 
 - 📫 How to reach me: **halimcanocakli@gmail.com**
 
