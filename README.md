@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **halimcanocakli@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1RGTY0kwHbFIiH82-pZaHRXim9s7JP46W/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1nWn6oCPENqc9p2E3QX3NPNCrf97HByQx/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
