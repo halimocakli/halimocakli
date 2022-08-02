@@ -1,11 +1,11 @@
 [![MasterHead](https://www.cognex.com/library/media/blogs/deep-learning-blogs/2021/what-is-deep-learning-large.jpg?sc_lang=en&h=300&w=945&la=en&hash=2E77DA2E7601CF8405B46430F9DDD00A)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
-<h3 align="center">A passionate CENG student who is interested in Machine Learning & Backend Engineering</h3>
+<h3 align="center">A passionate CENG student who is interested in Data & Software Engineering</h3>
 <p align="center">
   <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 </p>
 
-- 🔭 I’m currently working as Software Team Member at [KGM Black Night Team](https://www.instagram.com/blacknight_tek/)
+- 🔭 I’m currently working as Software Engineering Intern at [Saykal Electronics](https://www.https://saykal.com/)
 
 - 🌱 I’m currently learning **Advanced C#** & **WPF** & **MySQL**
 
