@@ -5,11 +5,11 @@
   <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 </p>
 
-- 🔭 I’m currently working as Junior Software Engineer at [Saykal Electronics](https://saykal.com/)
+- 🔭 I’m currently working as Junior Datawarehouse Engineer at [HALKBANK](https://www.halkbank.com.tr/)
 
-- 🌱 I’m currently learning **Advanced C#** & **WPF** & **MySQL**
+- 🌱 I’m currently learning **Databse Design** & **SQL** & **ETL Process**
 
-- 💬 Ask me about **C, Python, Data Structures, Algorithm Analysis**
+- 💬 Ask me about **C, C#, Python, Data Structures, Algorithm Analysis**
 
 - 📫 How to reach me: **halimcanocakli@gmail.com**
 
