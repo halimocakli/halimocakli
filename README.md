@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Junior Datawarehouse Engineer at [HALKBANK](https://www.halkbank.com.tr/)
 
-- 🌱 I’m currently learning **Databse Design** & **SQL** & **ETL Process**
+- 🌱 I’m currently learning **Database Design** & **SQL** & **ETL Process**
 
 - 💬 Ask me about **C, C#, Python, Data Structures, Algorithm Analysis**
 
