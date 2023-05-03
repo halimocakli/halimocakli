@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cognex.com/library/media/blogs/deep-learning-blogs/2021/what-is-deep-learning-large.jpg?sc_lang=en&h=300&w=945&la=en&hash=2E77DA2E7601CF8405B46430F9DDD00A)](https://www.princeton.edu/~hos/mike/articles/sweroots.pdf)
+[![MasterHead](https://pbs.twimg.com/profile_banners/707597173286952960/1683119750/1500x500)](https://www.princeton.edu/~hos/mike/articles/sweroots.pdf)
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
 <h3 align="center">A passionate Senior CENG student who is interested in Software Development & Data Engineering</h3>
 <p align="center">
