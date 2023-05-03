@@ -1,11 +1,11 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/707597173286952960/1683119750/1500x500)](https://www.princeton.edu/~hos/mike/articles/sweroots.pdf)
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
-<h3 align="center">A passionate Senior CENG student who is interested in Software Development & Data Engineering</h3>
+<h3 align="center">A passionate Senior CENG student who is interested in Software Development & Database Management</h3>
 <p align="center">
   <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 </p>
 
-- 🔭 I’m currently working as Junior Datawarehouse Engineer at [HALKBANK](https://www.halkbank.com.tr/)
+- 🔭 I’m currently working as Long Term Data Archhitect Intern at [HALKBANK](https://www.halkbank.com.tr/)
 
 - 🌱 I’m currently learning **Database Design** & **SQL** & **ETL Process**
 
