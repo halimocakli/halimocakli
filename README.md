@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/707597173286952960/1683119750/1500x500)](https://www.princeton.edu/~hos/mike/articles/sweroots.pdf)
+[![MasterHead](https://i.ytimg.com/vi/dEQ6Tl1T9aU/maxresdefault.jpg)](https://www.linkedin.com/in/halimcanocakli/)
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
 <h3 align="center">A passionate Senior CENG student who is interested in Software Development & Database Management</h3>
 <p align="center">
