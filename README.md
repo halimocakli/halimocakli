@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ytimg.com/vi/dEQ6Tl1T9aU/maxresdefault.jpg)](https://www.linkedin.com/in/halimcanocakli/)
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
-<h3 align="center">A passionate Software Engineer who is interested in Backend Engineering & Data Architecture</h3>
+<h3 align="center">A passionate Software Engineer who is interested in Backend Development & Data Architecture</h3>
 <p align="center">
   <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 </p>
