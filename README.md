@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Long Term Data Archhitect Intern at [HALKBANK](https://www.halkbank.com.tr/)
 
-- 🌱 I’m currently learning **Database Design** & **SQL** & **ETL Process**
+- 🌱 I’m currently learning **.NET Technologies** & **Database Design**
 
 - 💬 Ask me about **C, C#, Python, Data Structures, Algorithm Analysis**
 
