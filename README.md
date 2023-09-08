@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Software Engineering Intern at [Turkcell Global Bilgi](https://globalbilgi.com.tr/)
 
-- 🌱 I’m currently learning **.NET Technologies** & **Database Design**
+- 🌱 I’m currently learning **.NET Technologies** & **DevOps**
 
 - 💬 Ask me about **C, C#, Python, Data Structures, Algorithm Analysis**
 
