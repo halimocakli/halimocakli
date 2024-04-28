@@ -1,13 +1,13 @@
 [![MasterHead](https://i.ytimg.com/vi/dEQ6Tl1T9aU/maxresdefault.jpg)](https://www.linkedin.com/in/halimcanocakli/)
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
-<h3 align="center">A passionate DevOps Engineer who is interested in Backend Development & System Management</h3>
+<h3 align="center">A passionate DevOps Engineer who is interested in Cloud & Security</h3>
 <!--<p align="center">-->
 <!--  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">-->
 <!--</p>-->
 
 - 🔭 I’m currently working as DevOps Engineer at [Amadeus](https://amadeus.com/en)
 
-- 🌱 I’m currently learning **Go** & **DevOps Processes**
+- 🌱 I’m currently learning **Terraform** & **Cloud Computing**
 
 - 💬 Ask me about **C, C#, Python, Data Structures, Algorithm Analysis**
 
