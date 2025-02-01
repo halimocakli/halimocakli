@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ytimg.com/vi/dEQ6Tl1T9aU/maxresdefault.jpg)](https://www.linkedin.com/in/halimcanocakli/)
+[![MasterHead](https://i.ytimg.com/vi/Cio-th7f4js/maxresdefault.jpg)](https://www.linkedin.com/in/halimcanocakli/)
 <h1 align="center">Hi 👋, I'm Halim Can Ocaklı</h1>
 <h3 align="center">A passionate DevOps Engineer who is interested in Cloud & Security</h3>
 <!--<p align="center">-->
